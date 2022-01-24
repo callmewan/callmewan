@@ -5,8 +5,8 @@
 - 📫 How to reach me syazwanbunander1997@gmail.com
 
 - have done some project;
-= Ammonia gas detection, preventive, and monitoring system
-= Dooe security (Qrscan) 
+- Ammonia gas detection, preventive, and monitoring system
+- Door security (Qrscan) 
 
 <!---
 callmewan/callmewan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
